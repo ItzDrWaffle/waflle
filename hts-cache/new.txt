@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:35:23	110/110	---M--	302	error ('Moved%20Temporarily')	text/html	date:Wed,%2006%20Oct%202021%2015:35:22%20GMT	http://riverdale.okta.com/robots.txt		(from )
+11:35:23	110/110	---M--	302	error ('Moved%20Temporarily')	text/html	date:Wed,%2006%20Oct%202021%2015:35:23%20GMT	http://riverdale.okta.com/	/home/waffle/websites/HeheGetTroll/riverdale.okta.com/index.html	(from )
